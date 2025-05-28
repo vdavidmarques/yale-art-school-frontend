@@ -1,0 +1,1 @@
+# yale-art-school-frontend
